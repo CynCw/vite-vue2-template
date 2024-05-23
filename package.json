@@ -1,0 +1,23 @@
+{
+  "name": "vite-vue2-template",
+  "type": "module",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite --port=3000",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "mint-ui": "^2.2.13",
+    "vue": "^2.7.16",
+    "vue-router": "^3"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^2.18.1",
+    "@vitejs/plugin-vue2": "^2.3.1",
+    "eslint": "9.2.0",
+    "unocss": "^0.60.3",
+    "vite": "^5.2.0"
+  }
+}
