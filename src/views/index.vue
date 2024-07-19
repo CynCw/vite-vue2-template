@@ -2,14 +2,13 @@
 export default {
   name: 'Index',
   data: () => ({
-    rn: new Date(),
+    rn: '来自idx.google.com的修改',
   }),
 }
 </script>
 
 <template>
   <div>
-    {{ rn }}
   </div>
 </template>
 
